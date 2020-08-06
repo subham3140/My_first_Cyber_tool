@@ -1,0 +1,6 @@
+Vulnerability Report is as follows:
+===================================
+
+Form Issue:Insecure form action index.html found in document.
+Comment Issue: Key in the HTML comments,Please remove.
+Input Issue:PlanText password input found.Please change the input type=password otherwise your password will be catch easily as a simple text.
